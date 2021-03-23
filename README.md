@@ -1,6 +1,6 @@
 # Hackintosh
 
-## Specification
+### Specification
 
 Dell Latitude E7470 Laptop
 
@@ -16,4 +16,4 @@ INTEL HD GRAPHICS 520
 
 
 
-Initially installed Catalina then upgrade to Big Sur inside the Catalina.
+Installed Catalina first, then upgrade to Big Sur in Catalina itself.
